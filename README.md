@@ -38,29 +38,29 @@ https://scholar.googleusercontent.com/scholar.bib?q=info:l291WsrB-hQJ:scholar.go
 ## Table of contents
 
 Before You Start:
-* <a href='g3doc/installation.md'>Installation</a><br>
+* <a href='files/g3doc/installation.md'>Installation</a><br>
 
 Quick Start:
-* <a href='object_detection_tutorial.ipynb'>
+* <a href='files/object_detection_tutorial.ipynb'>
       Quick Start: Jupyter notebook for off-the-shelf inference</a><br>
-* <a href="g3doc/running_pets.md">Quick Start: Training a pet detector</a><br>
+* <a href="files/g3doc/running_pets.md">Quick Start: Training a pet detector</a><br>
 
 Setup:
-* <a href='g3doc/configuring_jobs.md'>
+* <a href='files/g3doc/configuring_jobs.md'>
       Configuring an object detection pipeline</a><br>
-* <a href='g3doc/preparing_inputs.md'>Preparing inputs</a><br>
+* <a href='files/g3doc/preparing_inputs.md'>Preparing inputs</a><br>
 
 Running:
-* <a href='g3doc/running_locally.md'>Running locally</a><br>
-* <a href='g3doc/running_on_cloud.md'>Running on the cloud</a><br>
+* <a href='files/g3doc/running_locally.md'>Running locally</a><br>
+* <a href='files/g3doc/running_on_cloud.md'>Running on the cloud</a><br>
 
 Extras:
-* <a href='g3doc/detection_model_zoo.md'>Tensorflow detection model zoo</a><br>
-* <a href='g3doc/exporting_models.md'>
+* <a href='files/g3doc/detection_model_zoo.md'>Tensorflow detection model zoo</a><br>
+* <a href='files/g3doc/exporting_models.md'>
       Exporting a trained model for inference</a><br>
-* <a href='g3doc/defining_your_own_model.md'>
+* <a href='files/g3doc/defining_your_own_model.md'>
       Defining your own model architecture</a><br>
-* <a href='g3doc/using_your_own_dataset.md'>
+* <a href='files/g3doc/using_your_own_dataset.md'>
       Bringing in your own dataset</a><br>
 
 ## Getting Help
@@ -98,11 +98,11 @@ release includes:
   * Faster RCNN with Inception Resnet v2
 * Frozen weights (trained on the COCO dataset) for each of the above models to
   be used for out-of-the-box inference purposes.
-* A [Jupyter notebook](object_detection_tutorial.ipynb) for performing
+* A [Jupyter notebook](files/object_detection_tutorial.ipynb) for performing
   out-of-the-box inference with one of our released models
-* Convenient [local training](g3doc/running_locally.md) scripts as well as
+* Convenient [local training](files/g3doc/running_locally.md) scripts as well as
   distributed training and evaluation pipelines via
-  [Google Cloud](g3doc/running_on_cloud.md).
+  [Google Cloud](files/g3doc/running_on_cloud.md).
 
 
 <b>Thanks to contributors</b>: Jonathan Huang, Vivek Rathod, Derek Chow,
